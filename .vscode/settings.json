@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "task.h": "c",
+        "dac.h": "c",
+        "adc_cali.h": "c",
+        "freertos.h": "c"
+    }
+}
